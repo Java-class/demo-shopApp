@@ -1,2 +1,2 @@
 # demo-shopApp
- This is Simple Shoping App With Spring Boot
+ This is Simple Shopping App With Spring Boot
